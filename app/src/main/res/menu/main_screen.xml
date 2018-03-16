@@ -3,7 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-<<<<<<< HEAD
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
@@ -17,6 +16,4 @@
         android:title="nav_create"
         app:showAsAction="always" />
 
-=======
->>>>>>> parent of 6d199d2... Merge pull request #3 from photonicDog/master
 </menu>

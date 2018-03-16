@@ -3,11 +3,6 @@ package inseption.afinal;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-<<<<<<< HEAD
-=======
-import android.support.design.widget.Snackbar;
-import android.view.View;
->>>>>>> parent of 6d199d2... Merge pull request #3 from photonicDog/master
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -62,7 +57,7 @@ public class main_screen extends AppCompatActivity
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main_screen, menu);
-        return true;
+        return super.onCreateOptionsMenu(menu);
     }
 
     @Override
