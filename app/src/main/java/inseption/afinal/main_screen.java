@@ -41,7 +41,7 @@ public class main_screen extends AppCompatActivity
         createEventButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(main_screen.this, create_event.class));
+                startActivity(new Intent(main_screen.this, new_event_screen.class));
             }
         });
 

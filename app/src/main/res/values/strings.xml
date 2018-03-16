@@ -40,4 +40,5 @@
     <!-- Strings related to Create Event -->
     <string name="title_activity_create_event">Create Event</string>
     <string name="title_activity_about_screen">About</string>
+    <string name="title_activity_new_event_screen">Create Event</string>
 </resources>

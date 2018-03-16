@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 16 19:32:15 GMT 2018
+#Fri Mar 16 21:42:45 GMT 2018
 2.base=C\:\\Users\\Charles\\Documents\\GitHub\\inseption\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex

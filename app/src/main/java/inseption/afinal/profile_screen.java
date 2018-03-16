@@ -26,6 +26,14 @@ public class profile_screen extends AppCompatActivity {
                 startActivity(new Intent(profile_screen.this, main_screen.class));
             }
         });
+
+        Button SaveButton = (Button) findViewById(R.id.save_button);
+        SaveButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(profile_screen.this, main_screen.class));
+            }
+        });
     }
 
 }
