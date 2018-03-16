@@ -9,11 +9,4 @@
         app:showAsAction="never" />
 
 
-    <item
-        android:id="@+id/nav_create"
-        android:title="nav_create"
-        app:showAsAction="always"
-        android:icon="@drawable/ic_plus"
-        />
-
 </menu>
