@@ -1,4 +1,4 @@
-#Thu Mar 15 20:52:45 GMT 2018
-base.0=C\:\\Users\\Charles\\Documents\\inseption-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Thu Mar 15 10:40:03 GMT 2018
+base.0=C\:\\Users\\Charles\\Desktop\\inseption-7744e07a130c6e204b5395f9ffb7fd3da8377e48\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Charles\\Documents\\inseption-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\Charles\\Desktop\\inseption-7744e07a130c6e204b5395f9ffb7fd3da8377e48\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Charles\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\35839d188b48e3fbe23e4e3a93076782\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Charles\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\311388daf93c5b04c4d74949c06e60b3\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Charles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\aa08e9cc9a5419dbbf5eb068597fee7f\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Charles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6dc5d2289c755d59ba085ed421f727dd\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
