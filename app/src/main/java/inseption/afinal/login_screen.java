@@ -97,7 +97,6 @@ public class login_screen extends AppCompatActivity implements LoaderCallbacks<C
     public void onBackPressed() {
         finish();
         super.onBackPressed();
-
     }
 
     private void populateAutoComplete() {

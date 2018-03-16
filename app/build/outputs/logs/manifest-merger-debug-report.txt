@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.android.support:design:27.1.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\35839d188b48e3fbe23e4e3a93076782\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\aa08e9cc9a5419dbbf5eb068597fee7f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\2c646c53821234c79d8145bc22cb055e\AndroidManifest.xml:17:1-32:12
@@ -29,25 +29,25 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\23a8a0d3405b3662a81b01b336ddf113\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fa57a0527ae6f83cfc9dd48d2ac759b8\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\09a51e6982c6def793146c0a2efde138\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:5:5-40:19
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:5:5-37:19
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\2c646c53821234c79d8145bc22cb055e\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\2c646c53821234c79d8145bc22cb055e\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Charles\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\322c032eb6b6f2575346f2d9cad93956\AndroidManifest.xml:22:5-27:19
@@ -95,29 +95,37 @@ ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManif
 	android:name
 		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:18:27-74
 activity#inseption.afinal.main_screen
-ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:22:9-26:20
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:21:9-24:68
 	android:label
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:23:13-45
 	android:theme
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:25:13-56
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:24:13-56
 	android:name
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:23:13-40
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:22:13-40
 activity#inseption.afinal.create_event
-ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:28:9-32:20
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:25:9-28:68
 	android:label
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:30:13-64
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:27:13-64
 	android:theme
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:26:13-41
 activity#inseption.afinal.profile_screen
-ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:34:9-38:20
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:29:9-32:68
 	android:label
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:36:13-66
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:31:13-66
 	android:theme
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:37:13-56
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:32:13-56
 	android:name
-		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:35:13-43
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:30:13-43
+activity#inseption.afinal.about_screen
+ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:33:9-36:68
+	android:label
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:35:13-64
+	android:theme
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml:34:13-41
 uses-sdk
 INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Charles\Documents\GitHub\inseption\app\src\main\AndroidManifest.xml

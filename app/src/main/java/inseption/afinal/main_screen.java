@@ -90,8 +90,18 @@ public class main_screen extends AppCompatActivity
         } else if (id == R.id.nav_settings) {
 
         } else if (id == R.id.nav_about) {
+            startActivity(new Intent(main_screen.this, about_screen.class));
 
+
+        } else if(id ==R.id.nav_sign_out)
+
+        {
+            findViewById(R.id.calendarView).setVisibility(View.GONE);
+            findViewById(R.id.nav_view).setVisibility(View.GONE);
+            findViewById(R.id.drawer_layout).setVisibility(View.GONE);
+            startActivity(new Intent(main_screen.this, login_screen.class));
         }
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;

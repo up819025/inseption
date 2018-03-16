@@ -8,13 +8,13 @@
     <string name="action_settings">Planner</string>
 
     <!-- Navigation Drawer menu labels -->
-    <string name="nav_profile">Profile</string>
+    <string name="nav_profile">Edit Profile</string>
     <string name="nav_settings">Settings</string>
     <string name="nav_about">About</string>
 
     <!-- Toolbar titles when navigation menu item is selected -->
     <string-array name="nav_item_activity_titles">
-        <item>Profile</item>
+        <item>Edit Profile</item>
         <item>Settings</item>
         <item>About</item>
     </string-array>
@@ -35,8 +35,9 @@
     </string>
 
     <!-- Strings related to Profile -->
-    <string name="title_activity_profile_screen">Profile</string>
+    <string name="title_activity_profile_screen">Edit Profile</string>
 
     <!-- Strings related to Create Event -->
     <string name="title_activity_create_event">Create Event</string>
+    <string name="title_activity_about_screen">About</string>
 </resources>

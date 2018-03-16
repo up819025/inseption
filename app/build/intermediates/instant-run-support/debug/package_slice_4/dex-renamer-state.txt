@@ -1,4 +1,4 @@
-#Fri Mar 16 14:41:50 GMT 2018
+#Fri Mar 16 18:40:19 GMT 2018
 base.0=C\:\\Users\\Charles\\Documents\\GitHub\\inseption\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
