@@ -1,5 +1,6 @@
 package inseption.afinal;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -9,6 +10,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.CalendarView;
+import android.widget.TextView;
 
 public class main_screen extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -28,6 +33,19 @@ public class main_screen extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        CalendarView calView = (CalendarView) findViewById(R.id.calendarView);
+
+
+        Button createEventButton = (Button) findViewById(R.id.create_event_button);
+        createEventButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(main_screen.this, create_event.class));
+            }
+        });
+
+
     }
 
     @Override
@@ -67,6 +85,7 @@ public class main_screen extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_profile) {
+            startActivity(new Intent(main_screen.this, profile_screen.class));
 
         } else if (id == R.id.nav_settings) {
 
